@@ -72,8 +72,9 @@ Access lessons and video content
 Submit assignments and exams
 
 Leave reviews and ratings
+
 ---
-🧩 System Modules
+## 🧩 System Modules
 📌 Authentication Module
 
 Secure login & registration
@@ -125,9 +126,10 @@ User activity monitoring
 Content management
 
 System configuration
+
 ----
 
-🔐 Security Considerations
+## 🔐 Security Considerations
 
 Input validation & sanitization
 
@@ -138,9 +140,10 @@ Role-based access control
 Secure file uploads
 
 Session & authentication security
----
-📌 Target Use Cases
 
+---
+## 📌 Target Use Cases
+---
 Online learning platforms
 
 Schools & academies
